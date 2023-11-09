@@ -12,8 +12,8 @@
 
 <div>
     <img height="154" src="https://github-readme-streak-stats.herokuapp.com/?user=daudhiyaa&theme=radical">
-    <!-- <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudhiyaa&layout=compact&&theme=radical&langs_count=8)](https://github.com/daudhiyaa"/>
-    <img height="154" src="https://github-readme-stats.vercel.app/api?username=daudhiyaa&show_icons=true&theme=radical&count_private=true&include_all_commits=false"/> -->
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudhiyaa&layout=compact&&theme=radical&langs_count=8)](https://github.com/daudhiyaa"/>
+    <!-- <img height="154" src="https://github-readme-stats.vercel.app/api?username=daudhiyaa&show_icons=true&theme=radical&count_private=true&include_all_commits=false"/> -->
 </div>
 
 #### Languages, Tools, and Skills 🛠
@@ -37,10 +37,15 @@
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
     <br>
+    <!-- Mobile -->
+    <img src="https://img.shields.io/badge/flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" />
+    <br/>
     <!-- Tools -->
     <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/gitlab-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
-    <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="vs code" />
+    <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
 </div>
